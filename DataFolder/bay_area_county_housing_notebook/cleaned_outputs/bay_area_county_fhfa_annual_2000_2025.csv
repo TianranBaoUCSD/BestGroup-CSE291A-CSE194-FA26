@@ -1,0 +1,235 @@
+STATE,COUNTY,COUNTY_FIPS,YEAR,FHFA_ANNUAL_CHANGE_PCT,FHFA_HPI_NATIVE,FHFA_HPI_1990_BASE,FHFA_HPI_2000_BASE,SOURCE
+CA,Alameda,06001,2000,25.43,813.05,146.54,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2001,14.82,933.58,168.26,114.82,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2002,5.95,989.17,178.28,121.66,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2003,5.72,1045.71,188.47,128.62,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2004,12.34,1174.74,211.73,144.48,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2005,24.08,1457.61,262.71,179.28,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2006,8.77,1585.37,285.74,194.99,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2007,-3.33,1532.55,276.22,188.49,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2008,-15.40,1296.54,233.68,159.47,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2009,-13.27,1124.55,202.68,138.31,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2010,-0.95,1113.82,200.75,136.99,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2011,-5.24,1055.42,190.22,129.81,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2012,0.82,1064.10,191.79,130.88,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2013,13.74,1210.34,218.15,148.86,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2014,15.94,1403.31,252.92,172.60,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2015,9.30,1533.87,276.46,188.66,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2016,11.43,1709.18,308.05,210.22,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2017,7.03,1829.39,329.72,225.00,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2018,8.99,1993.82,359.35,245.23,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2019,1.15,2016.67,363.47,248.04,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2020,0.00,2016.74,363.49,248.05,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2021,9.81,2214.53,399.14,272.37,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2022,13.19,2506.65,451.78,308.30,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2023,-0.29,2499.29,450.46,307.40,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2024,1.41,2534.52,456.81,311.73,FHFA annual county all-transactions developmental index; NSA
+CA,Alameda,06001,2025,-1.91,2486.02,448.07,305.76,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2000,22.16,690.53,134.50,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2001,15.61,798.36,155.50,115.61,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2002,9.06,870.68,169.59,126.09,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2003,8.05,940.80,183.25,136.24,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2004,15.85,1089.87,212.29,157.83,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2005,26.31,1376.63,268.14,199.36,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2006,7.18,1475.52,287.40,213.68,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2007,-7.72,1361.66,265.22,197.19,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2008,-23.53,1041.21,202.81,150.78,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2009,-14.54,889.85,173.32,128.86,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2010,-4.06,853.67,166.28,123.63,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2011,-6.62,797.16,155.27,115.44,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2012,1.25,807.11,157.21,116.88,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2013,13.40,915.27,178.28,132.55,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2014,16.66,1067.78,207.98,154.63,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2015,7.01,1142.63,222.56,165.47,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2016,10.31,1260.40,245.50,182.53,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2017,7.47,1354.57,263.84,196.16,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2018,7.02,1449.63,282.36,209.93,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2019,2.16,1480.99,288.47,214.47,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2020,1.10,1497.25,291.63,216.82,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2021,13.68,1702.13,331.54,246.50,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2022,14.54,1949.59,379.74,282.33,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2023,-1.65,1917.40,373.47,277.67,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2024,1.90,1953.78,380.56,282.94,FHFA annual county all-transactions developmental index; NSA
+CA,Contra Costa,06013,2025,-0.01,1953.53,380.51,282.90,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2000,24.91,849.12,157.55,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2001,10.88,941.50,174.69,110.88,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2002,5.88,996.86,184.96,117.40,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2003,4.40,1040.73,193.10,122.57,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2004,8.60,1130.28,209.72,133.11,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2005,20.37,1360.53,252.44,160.23,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2006,5.37,1433.58,266.00,168.83,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2007,-1.93,1405.90,260.86,165.57,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2008,-5.53,1328.09,246.42,156.41,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2009,-10.20,1192.59,221.28,140.45,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2010,-4.62,1137.46,211.05,133.96,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2011,-4.69,1084.06,201.14,127.67,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2012,1.91,1104.81,204.99,130.11,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2013,8.05,1193.75,221.50,140.59,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2014,13.09,1350.01,250.49,158.99,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2015,6.62,1439.41,267.08,169.52,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2016,9.01,1569.06,291.13,184.79,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2017,2.47,1607.82,298.33,189.35,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2018,5.50,1696.25,314.73,199.77,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2019,0.18,1699.24,315.29,200.12,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2020,-2.11,1663.38,308.63,195.90,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2021,6.76,1775.76,329.49,209.13,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2022,12.52,1998.14,370.75,235.32,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2023,3.06,2059.20,382.08,242.51,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2024,2.18,2104.13,390.42,247.80,FHFA annual county all-transactions developmental index; NSA
+CA,Marin,06041,2025,-0.83,2086.62,387.17,245.74,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2000,23.17,698.97,144.38,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2001,15.22,805.32,166.35,115.22,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2002,11.35,896.75,185.24,128.30,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2003,11.04,995.79,205.70,142.47,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2004,16.56,1160.65,239.75,166.05,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2005,22.25,1418.94,293.11,203.00,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2006,5.85,1501.89,310.24,214.87,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2007,-3.88,1443.55,298.19,206.53,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2008,-16.33,1207.84,249.50,172.80,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2009,-16.27,1011.36,208.91,144.69,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2010,-7.59,934.55,193.05,133.70,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2011,-6.88,870.21,179.76,124.50,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2012,0.97,878.61,181.49,125.70,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2013,13.53,997.45,206.04,142.70,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2014,16.99,1166.93,241.05,166.95,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2015,6.23,1239.67,256.08,177.36,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2016,10.35,1368.03,282.59,195.72,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2017,5.54,1443.79,298.24,206.56,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2018,5.87,1528.56,315.75,218.69,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2019,2.55,1567.60,323.82,224.27,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2020,1.35,1588.76,328.19,227.30,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2021,10.89,1761.71,363.91,252.04,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2022,10.27,1942.67,401.29,277.93,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2023,1.26,1967.18,406.36,281.44,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2024,3.81,2042.06,421.83,292.15,FHFA annual county all-transactions developmental index; NSA
+CA,Napa,06055,2025,-1.02,2021.21,417.52,289.17,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2000,26.85,936.51,149.14,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2001,14.12,1068.75,170.20,114.12,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2002,5.22,1124.51,179.08,120.07,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2003,5.16,1182.53,188.32,126.27,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2004,12.78,1333.61,212.38,142.40,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2005,21.87,1625.29,258.83,173.55,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2006,6.79,1735.61,276.40,185.33,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2007,-0.07,1734.37,276.20,185.20,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2008,-5.59,1637.48,260.77,174.85,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2009,-8.60,1496.69,238.35,159.82,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2010,-2.14,1464.61,233.24,156.39,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2011,-4.92,1392.55,221.77,148.70,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2012,3.22,1437.42,228.91,153.49,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2013,11.04,1596.17,254.19,170.44,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2014,15.86,1849.29,294.50,197.47,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2015,10.81,2049.14,326.33,218.81,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2016,10.49,2264.18,360.57,241.77,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2017,4.63,2368.92,377.25,252.95,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2018,7.32,2542.29,404.86,271.46,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2019,1.48,2579.87,410.85,275.48,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2020,-6.59,2409.82,383.77,257.32,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2021,0.09,2412.05,384.12,257.56,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2022,11.32,2685.14,427.61,286.72,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2023,-1.02,2657.63,423.23,283.78,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2024,2.58,2726.13,434.14,291.09,FHFA annual county all-transactions developmental index; NSA
+CA,San Francisco,06075,2025,0.50,2739.65,436.29,292.54,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2000,26.33,913.67,153.00,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2001,11.12,1015.24,170.00,111.12,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2002,3.61,1051.89,176.14,115.13,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2003,4.48,1099.03,184.04,120.29,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2004,10.31,1212.33,203.01,132.69,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2005,21.95,1478.50,247.58,161.82,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2006,8.23,1600.22,267.96,175.14,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2007,-0.48,1592.56,266.68,174.30,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2008,-9.92,1434.60,240.23,157.02,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2009,-10.66,1281.63,214.61,140.27,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2010,-1.89,1257.37,210.55,137.62,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2011,-3.88,1208.57,202.38,132.28,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2012,2.77,1242.06,207.99,135.94,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2013,11.36,1383.10,231.60,151.38,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2014,14.65,1585.77,265.54,173.56,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2015,10.09,1745.84,292.35,191.08,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2016,11.33,1943.72,325.48,212.74,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2017,3.94,2020.23,338.29,221.11,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2018,11.30,2248.61,376.54,246.11,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2019,-0.28,2242.25,375.47,245.41,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2020,-5.21,2125.46,355.91,232.63,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2021,1.02,2147.18,359.55,235.01,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2022,13.59,2438.88,408.40,266.93,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2023,5.29,2567.95,430.01,281.06,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2024,2.00,2619.37,438.62,286.69,FHFA annual county all-transactions developmental index; NSA
+CA,San Mateo,06081,2025,-0.61,2603.37,435.94,284.94,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2000,30.46,1033.31,168.13,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2001,10.66,1143.47,186.05,110.66,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2002,0.61,1150.50,187.20,111.34,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2003,2.04,1173.99,191.02,113.61,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2004,7.57,1262.82,205.47,122.21,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2005,23.25,1556.39,253.24,150.62,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2006,9.80,1708.99,278.07,165.39,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2007,-0.42,1701.75,276.89,164.69,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2008,-10.08,1530.24,248.99,148.09,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2009,-13.90,1317.48,214.37,127.50,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2010,-0.01,1317.35,214.35,127.49,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2011,-3.17,1275.55,207.55,123.44,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2012,2.81,1311.45,213.39,126.92,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2013,11.65,1464.24,238.25,141.70,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2014,13.89,1667.57,271.33,161.38,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2015,8.19,1804.12,293.55,174.60,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2016,9.71,1979.25,322.05,191.54,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2017,4.04,2059.24,335.06,199.29,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2018,11.81,2302.51,374.64,222.83,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2019,-1.89,2259.07,367.58,218.62,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2020,-2.96,2192.11,356.68,212.14,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2021,4.85,2298.51,373.99,222.44,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2022,15.71,2659.53,432.73,257.38,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2023,6.24,2825.42,459.73,273.43,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2024,5.34,2976.26,484.27,288.03,FHFA annual county all-transactions developmental index; NSA
+CA,Santa Clara,06085,2025,-0.63,2957.37,481.20,286.20,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2000,21.59,565.50,128.41,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2001,15.88,655.32,148.80,115.88,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2002,11.55,730.99,165.98,129.26,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2003,10.03,804.34,182.64,142.23,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2004,18.82,955.67,217.00,169.00,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2005,23.07,1176.16,267.06,207.99,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2006,7.82,1268.18,287.96,224.26,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2007,-7.84,1168.79,265.39,206.68,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2008,-26.58,858.18,194.86,151.76,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2009,-24.87,644.72,146.39,114.01,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2010,-4.59,615.14,139.68,108.78,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2011,-9.03,559.58,127.06,98.95,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2012,-0.36,557.57,126.61,98.60,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2013,17.15,653.19,148.32,115.51,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2014,23.43,806.26,183.07,142.57,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2015,7.48,866.61,196.78,153.25,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2016,9.87,952.17,216.20,168.38,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2017,8.63,1034.38,234.87,182.91,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2018,7.77,1114.79,253.13,197.13,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2019,3.44,1153.16,261.84,203.92,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2020,2.21,1178.67,267.63,208.43,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2021,15.04,1355.92,307.88,239.77,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2022,11.87,1516.81,344.41,268.22,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2023,-1.21,1498.40,340.23,264.97,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2024,2.20,1531.36,347.72,270.80,FHFA annual county all-transactions developmental index; NSA
+CA,Solano,06095,2025,-0.32,1526.49,346.61,269.94,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2000,25.65,757.23,146.93,100.00,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2001,14.30,865.48,167.93,114.30,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2002,6.30,919.97,178.50,121.49,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2003,6.33,978.21,189.80,129.18,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2004,15.57,1130.56,219.36,149.30,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2005,22.57,1385.76,268.88,183.00,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2006,3.70,1437.09,278.84,189.78,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2007,-6.65,1341.48,260.29,177.16,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2008,-16.82,1115.84,216.51,147.36,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2009,-12.49,976.45,189.46,128.95,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2010,-4.55,931.99,180.83,123.08,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2011,-7.53,861.84,167.22,113.81,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2012,-0.37,858.66,166.61,113.40,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2013,13.85,977.63,189.69,129.11,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2014,16.81,1142.01,221.58,150.81,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2015,7.35,1225.97,237.88,161.90,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2016,8.98,1336.09,259.24,176.44,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2017,7.71,1439.10,279.23,190.05,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2018,8.59,1562.67,303.20,206.37,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2019,0.13,1564.74,303.61,206.64,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2020,0.23,1568.39,304.31,207.12,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2021,8.41,1700.36,329.92,224.55,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2022,10.46,1878.29,364.44,248.05,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2023,1.63,1908.92,370.39,252.09,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2024,2.39,1954.59,379.25,258.12,FHFA annual county all-transactions developmental index; NSA
+CA,Sonoma,06097,2025,0.49,1964.16,381.11,259.39,FHFA annual county all-transactions developmental index; NSA
