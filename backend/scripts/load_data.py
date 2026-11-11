@@ -38,7 +38,7 @@ BACKEND = Path(__file__).resolve().parents[1]
 if str(BACKEND) not in sys.path:
     sys.path.insert(0, str(BACKEND))
 
-DEFAULT_DATA_DIR = BACKEND.parent / "data" / "BestGroup-CSE291A-CSE194-FA26"
+DEFAULT_DATA_DIR = BACKEND.parent / "DataFolder" #/ "BestGroup-CSE291A-CSE194-FA26"
 HOUSING_DIR = "bay_area_county_housing_notebook/cleaned_outputs"
 
 STATE = "06"
