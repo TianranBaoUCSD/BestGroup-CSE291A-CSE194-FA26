@@ -1,5 +1,6 @@
 import { DATASETS } from '../constants.js';
 import { dataYearNote, formatValue } from '../lib/format.js';
+import RaceBreakdown from './RaceBreakdown.jsx';
 
 export default function DetailsPanel({ dataset, metrics, year, dataYear, status, countyValues, countyName, counties, onBack }) {
   const def = DATASETS[dataset];
@@ -35,6 +36,10 @@ export default function DetailsPanel({ dataset, metrics, year, dataYear, status,
         ))}
       </div>
       <p className="details__note">{note}</p>
+
+      {dataset === 'demographics' && countyName && (
+        <RaceBreakdown countyName={countyName} countyValues={countyValues} />
+      )}
 
       <div className="card list-card">
         <div className="list-card__head">
