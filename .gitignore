@@ -8,3 +8,4 @@ __pycache__/
 .vscode
 load_data copy.py
 load_data_playground.ipynb
+backend/exports/
