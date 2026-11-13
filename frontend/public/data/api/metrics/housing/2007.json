@@ -1,0 +1,72 @@
+{
+  "dataset": "housing",
+  "requested_year": 2007,
+  "data_year": 2007,
+  "values": {
+    "06001": {
+      "median_home_value": 590579.95,
+      "fhfa_hpi_2000_base": 188.49,
+      "fhfa_annual_change_pct": -3.33
+    },
+    "06013": {
+      "median_home_value": 597879.17,
+      "fhfa_hpi_2000_base": 197.19,
+      "fhfa_annual_change_pct": -7.72
+    },
+    "06041": {
+      "median_home_value": 854784.0,
+      "fhfa_hpi_2000_base": 165.57,
+      "fhfa_annual_change_pct": -1.93
+    },
+    "06055": {
+      "median_home_value": 608278.75,
+      "fhfa_hpi_2000_base": 206.53,
+      "fhfa_annual_change_pct": -3.88
+    },
+    "06075": {
+      "median_home_value": 792655.28,
+      "fhfa_hpi_2000_base": 185.2,
+      "fhfa_annual_change_pct": -0.07
+    },
+    "06081": {
+      "median_home_value": 800583.13,
+      "fhfa_hpi_2000_base": 174.3,
+      "fhfa_annual_change_pct": -0.48
+    },
+    "06085": {
+      "median_home_value": 684517.31,
+      "fhfa_hpi_2000_base": 164.69,
+      "fhfa_annual_change_pct": -0.42
+    },
+    "06095": {
+      "median_home_value": 457210.9,
+      "fhfa_hpi_2000_base": 206.68,
+      "fhfa_annual_change_pct": -7.84
+    },
+    "06097": {
+      "median_home_value": 568377.47,
+      "fhfa_hpi_2000_base": 177.16,
+      "fhfa_annual_change_pct": -6.65
+    }
+  },
+  "domains": {
+    "median_home_value": [
+      237059.83920000002,
+      1496427.0278
+    ],
+    "median_gross_rent": [
+      1658.0839999999998,
+      3541.0375999999997
+    ],
+    "owner_occupied_pct": null,
+    "vacancy_rate_pct": null,
+    "fhfa_hpi_2000_base": [
+      100.0,
+      292.2826
+    ],
+    "fhfa_annual_change_pct": [
+      -16.290399999999998,
+      25.5048
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "geoid": "06075",
+  "metric": "pacific_islander_population",
+  "points": [
+    {
+      "year": 2000,
+      "value": 3581
+    },
+    {
+      "year": 2009,
+      "value": 3408
+    },
+    {
+      "year": 2010,
+      "value": 3465
+    },
+    {
+      "year": 2011,
+      "value": 3703
+    },
+    {
+      "year": 2012,
+      "value": 3381
+    },
+    {
+      "year": 2013,
+      "value": 3481
+    },
+    {
+      "year": 2014,
+      "value": 3665
+    },
+    {
+      "year": 2015,
+      "value": 3769
+    },
+    {
+      "year": 2016,
+      "value": 1967
+    },
+    {
+      "year": 2017,
+      "value": 3639
+    },
+    {
+      "year": 2018,
+      "value": 2126
+    },
+    {
+      "year": 2019,
+      "value": 3785
+    },
+    {
+      "year": 2020,
+      "value": 3476
+    },
+    {
+      "year": 2021,
+      "value": 2644
+    },
+    {
+      "year": 2022,
+      "value": 4071
+    },
+    {
+      "year": 2023,
+      "value": 2821
+    },
+    {
+      "year": 2024,
+      "value": 2355
+    },
+    {
+      "year": 2025,
+      "value": 3786
+    }
+  ]
+}

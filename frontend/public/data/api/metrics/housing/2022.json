@@ -1,0 +1,81 @@
+{
+  "dataset": "housing",
+  "requested_year": 2022,
+  "data_year": 2022,
+  "values": {
+    "06001": {
+      "median_home_value": 1118967.28,
+      "median_gross_rent": 2660.1,
+      "fhfa_hpi_2000_base": 308.3,
+      "fhfa_annual_change_pct": 13.19
+    },
+    "06013": {
+      "median_home_value": 841899.18,
+      "median_gross_rent": 2610.79,
+      "fhfa_hpi_2000_base": 282.33,
+      "fhfa_annual_change_pct": 14.54
+    },
+    "06041": {
+      "median_home_value": 1491612.57,
+      "median_gross_rent": 3317.02,
+      "fhfa_hpi_2000_base": 235.32,
+      "fhfa_annual_change_pct": 12.52
+    },
+    "06055": {
+      "median_home_value": 902290.02,
+      "median_gross_rent": 2690.19,
+      "fhfa_hpi_2000_base": 277.93,
+      "fhfa_annual_change_pct": 10.27
+    },
+    "06075": {
+      "median_home_value": 1419906.17,
+      "median_gross_rent": 3320.55,
+      "fhfa_hpi_2000_base": 286.72,
+      "fhfa_annual_change_pct": 11.32
+    },
+    "06081": {
+      "median_home_value": 1579252.61,
+      "median_gross_rent": 3251.68,
+      "fhfa_hpi_2000_base": 266.93,
+      "fhfa_annual_change_pct": 13.59
+    },
+    "06085": {
+      "median_home_value": 1487220.65,
+      "median_gross_rent": 3190.05,
+      "fhfa_hpi_2000_base": 257.38,
+      "fhfa_annual_change_pct": 15.71
+    },
+    "06095": {
+      "median_home_value": 603665.18,
+      "median_gross_rent": 2252.13,
+      "fhfa_hpi_2000_base": 268.22,
+      "fhfa_annual_change_pct": 11.87
+    },
+    "06097": {
+      "median_home_value": 789761.9,
+      "median_gross_rent": 2394.09,
+      "fhfa_hpi_2000_base": 248.05,
+      "fhfa_annual_change_pct": 10.46
+    }
+  },
+  "domains": {
+    "median_home_value": [
+      237059.83920000002,
+      1496427.0278
+    ],
+    "median_gross_rent": [
+      1658.0839999999998,
+      3541.0375999999997
+    ],
+    "owner_occupied_pct": null,
+    "vacancy_rate_pct": null,
+    "fhfa_hpi_2000_base": [
+      100.0,
+      292.2826
+    ],
+    "fhfa_annual_change_pct": [
+      -16.290399999999998,
+      25.5048
+    ]
+  }
+}

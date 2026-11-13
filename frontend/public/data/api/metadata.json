@@ -1,0 +1,124 @@
+{
+  "year_min": 2000,
+  "year_max": 2026,
+  "years_with_data": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "datasets": {
+    "housing": {
+      "label": "Housing",
+      "metrics": {
+        "median_home_value": {
+          "label": "Median home value",
+          "format": "usd",
+          "column": "zhvi_usd"
+        },
+        "median_gross_rent": {
+          "label": "Median gross rent",
+          "format": "usd",
+          "column": "zori_usd"
+        },
+        "owner_occupied_pct": {
+          "label": "Homeownership rate",
+          "format": "pct"
+        },
+        "vacancy_rate_pct": {
+          "label": "Vacancy rate",
+          "format": "pct"
+        },
+        "fhfa_hpi_2000_base": {
+          "label": "House price index (2000 = 100)",
+          "format": "int",
+          "column": "fhfa_hpi_2000_base"
+        },
+        "fhfa_annual_change_pct": {
+          "label": "House price index, annual change",
+          "format": "pct",
+          "column": "fhfa_annual_change_pct"
+        }
+      }
+    },
+    "demographics": {
+      "label": "Demographics",
+      "metrics": {
+        "population": {
+          "label": "Population",
+          "format": "int",
+          "column": "total_population"
+        },
+        "median_household_income": {
+          "label": "Median household income",
+          "format": "usd"
+        },
+        "median_age": {
+          "label": "Median age",
+          "format": "years"
+        },
+        "bachelors_pct": {
+          "label": "Bachelor's degree or higher",
+          "format": "pct"
+        },
+        "white_population": {
+          "label": "White alone",
+          "format": "int",
+          "column": "white"
+        },
+        "black_population": {
+          "label": "Black or African American alone",
+          "format": "int",
+          "column": "black"
+        },
+        "native_american_population": {
+          "label": "American Indian and Alaska Native alone",
+          "format": "int",
+          "column": "native_american"
+        },
+        "asian_population": {
+          "label": "Asian alone",
+          "format": "int",
+          "column": "asian"
+        },
+        "pacific_islander_population": {
+          "label": "Native Hawaiian and Other Pacific Islander alone",
+          "format": "int",
+          "column": "pacific_islander"
+        },
+        "other_race_population": {
+          "label": "Some other race alone",
+          "format": "int",
+          "column": "other_race"
+        },
+        "two_or_more_races_population": {
+          "label": "Two or more races",
+          "format": "int",
+          "column": "two_or_more"
+        }
+      }
+    }
+  }
+}

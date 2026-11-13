@@ -1,0 +1,134 @@
+{
+  "dataset": "demographics",
+  "requested_year": 2016,
+  "data_year": 2016,
+  "values": {
+    "06001": {
+      "population": 1647704,
+      "white_population": 688067,
+      "black_population": 174855,
+      "native_american_population": 10122,
+      "asian_population": 483856,
+      "pacific_islander_population": 13865,
+      "other_race_population": 171152,
+      "two_or_more_races_population": 105787
+    },
+    "06013": {
+      "population": 1135127,
+      "white_population": 658852,
+      "black_population": 97413,
+      "native_american_population": 3159,
+      "asian_population": 183849,
+      "pacific_islander_population": 4891,
+      "other_race_population": 104400,
+      "two_or_more_races_population": 82563
+    },
+    "06041": {
+      "population": 260651,
+      "white_population": 200426,
+      "black_population": 6114,
+      "native_american_population": 274,
+      "asian_population": 13886,
+      "pacific_islander_population": 397,
+      "other_race_population": 25607,
+      "two_or_more_races_population": 13947
+    },
+    "06055": {
+      "population": 142166,
+      "white_population": 110943,
+      "black_population": 2718,
+      "native_american_population": 1160,
+      "asian_population": 11301,
+      "pacific_islander_population": 269,
+      "other_race_population": 10439,
+      "two_or_more_races_population": 5336
+    },
+    "06075": {
+      "population": 870887,
+      "white_population": 404410,
+      "black_population": 43468,
+      "native_american_population": 3054,
+      "asian_population": 300409,
+      "pacific_islander_population": 1967,
+      "other_race_population": 70599,
+      "two_or_more_races_population": 46980
+    },
+    "06081": {
+      "population": 764797,
+      "white_population": 388724,
+      "black_population": 17413,
+      "native_american_population": 3102,
+      "asian_population": 214801,
+      "pacific_islander_population": 10756,
+      "other_race_population": 85183,
+      "two_or_more_races_population": 44818
+    },
+    "06085": {
+      "population": 1919402,
+      "white_population": 844820,
+      "black_population": 47142,
+      "native_american_population": 8787,
+      "asian_population": 683532,
+      "pacific_islander_population": 8602,
+      "other_race_population": 227352,
+      "two_or_more_races_population": 99167
+    },
+    "06095": {
+      "population": 440207,
+      "white_population": 219084,
+      "black_population": 64438,
+      "native_american_population": 1568,
+      "asian_population": 66560,
+      "pacific_islander_population": 3713,
+      "other_race_population": 46315,
+      "two_or_more_races_population": 38529
+    },
+    "06097": {
+      "population": 503070,
+      "white_population": 371195,
+      "black_population": 8632,
+      "native_american_population": 4397,
+      "asian_population": 21487,
+      "pacific_islander_population": 1542,
+      "other_race_population": 71200,
+      "two_or_more_races_population": 24617
+    }
+  },
+  "domains": {
+    "population": [
+      133007.74,
+      1927516.06
+    ],
+    "median_household_income": null,
+    "median_age": null,
+    "bachelors_pct": null,
+    "white_population": [
+      73818.0,
+      901473.72
+    ],
+    "black_population": [
+      2340.82,
+      185788.3
+    ],
+    "native_american_population": [
+      424.64,
+      19405.899999999998
+    ],
+    "asian_population": [
+      10385.26,
+      758679.32
+    ],
+    "pacific_islander_population": [
+      119.66,
+      14066.24
+    ],
+    "other_race_population": [
+      10931.14,
+      226886.2
+    ],
+    "two_or_more_races_population": [
+      4183.7,
+      269239.52
+    ]
+  }
+}

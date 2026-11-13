@@ -1,0 +1,78 @@
+{
+  "geoid": "06075",
+  "metric": "two_or_more_races_population",
+  "points": [
+    {
+      "year": 2000,
+      "value": 35315
+    },
+    {
+      "year": 2009,
+      "value": 26140
+    },
+    {
+      "year": 2010,
+      "value": 28902
+    },
+    {
+      "year": 2011,
+      "value": 32768
+    },
+    {
+      "year": 2012,
+      "value": 39179
+    },
+    {
+      "year": 2013,
+      "value": 37498
+    },
+    {
+      "year": 2014,
+      "value": 42109
+    },
+    {
+      "year": 2015,
+      "value": 38409
+    },
+    {
+      "year": 2016,
+      "value": 46980
+    },
+    {
+      "year": 2017,
+      "value": 50758
+    },
+    {
+      "year": 2018,
+      "value": 57540
+    },
+    {
+      "year": 2019,
+      "value": 50124
+    },
+    {
+      "year": 2020,
+      "value": 86233
+    },
+    {
+      "year": 2021,
+      "value": 95338
+    },
+    {
+      "year": 2022,
+      "value": 96860
+    },
+    {
+      "year": 2023,
+      "value": 92044
+    },
+    {
+      "year": 2024,
+      "value": 101894
+    },
+    {
+      "year": 2025,
+      "value": 104512
+    }
+  ]
+}

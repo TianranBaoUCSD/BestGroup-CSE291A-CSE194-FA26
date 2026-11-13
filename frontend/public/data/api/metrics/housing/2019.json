@@ -1,0 +1,81 @@
+{
+  "dataset": "housing",
+  "requested_year": 2019,
+  "data_year": 2019,
+  "values": {
+    "06001": {
+      "median_home_value": 836869.85,
+      "median_gross_rent": 2520.01,
+      "fhfa_hpi_2000_base": 248.04,
+      "fhfa_annual_change_pct": 1.15
+    },
+    "06013": {
+      "median_home_value": 621639.91,
+      "median_gross_rent": 2299.73,
+      "fhfa_hpi_2000_base": 214.47,
+      "fhfa_annual_change_pct": 2.16
+    },
+    "06041": {
+      "median_home_value": 1104258.14,
+      "median_gross_rent": 2922.77,
+      "fhfa_hpi_2000_base": 200.12,
+      "fhfa_annual_change_pct": 0.18
+    },
+    "06055": {
+      "median_home_value": 707447.4,
+      "median_gross_rent": 2258.64,
+      "fhfa_hpi_2000_base": 224.27,
+      "fhfa_annual_change_pct": 2.55
+    },
+    "06075": {
+      "median_home_value": 1287750.21,
+      "median_gross_rent": 3497.88,
+      "fhfa_hpi_2000_base": 275.48,
+      "fhfa_annual_change_pct": 1.48
+    },
+    "06081": {
+      "median_home_value": 1290111.15,
+      "median_gross_rent": 3180.29,
+      "fhfa_hpi_2000_base": 245.41,
+      "fhfa_annual_change_pct": -0.28
+    },
+    "06085": {
+      "median_home_value": 1127599.71,
+      "median_gross_rent": 3027.39,
+      "fhfa_hpi_2000_base": 218.62,
+      "fhfa_annual_change_pct": -1.89
+    },
+    "06095": {
+      "median_home_value": 451860.1,
+      "median_gross_rent": 1884.93,
+      "fhfa_hpi_2000_base": 203.92,
+      "fhfa_annual_change_pct": 3.44
+    },
+    "06097": {
+      "median_home_value": 656247.91,
+      "median_gross_rent": 2063.87,
+      "fhfa_hpi_2000_base": 206.64,
+      "fhfa_annual_change_pct": 0.13
+    }
+  },
+  "domains": {
+    "median_home_value": [
+      237059.83920000002,
+      1496427.0278
+    ],
+    "median_gross_rent": [
+      1658.0839999999998,
+      3541.0375999999997
+    ],
+    "owner_occupied_pct": null,
+    "vacancy_rate_pct": null,
+    "fhfa_hpi_2000_base": [
+      100.0,
+      292.2826
+    ],
+    "fhfa_annual_change_pct": [
+      -16.290399999999998,
+      25.5048
+    ]
+  }
+}

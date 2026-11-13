@@ -1,0 +1,78 @@
+{
+  "geoid": "06055",
+  "metric": "black_population",
+  "points": [
+    {
+      "year": 2000,
+      "value": 1625
+    },
+    {
+      "year": 2009,
+      "value": 2516
+    },
+    {
+      "year": 2010,
+      "value": 2947
+    },
+    {
+      "year": 2011,
+      "value": 2312
+    },
+    {
+      "year": 2012,
+      "value": 2988
+    },
+    {
+      "year": 2013,
+      "value": 3074
+    },
+    {
+      "year": 2014,
+      "value": 3310
+    },
+    {
+      "year": 2015,
+      "value": 2941
+    },
+    {
+      "year": 2016,
+      "value": 2718
+    },
+    {
+      "year": 2017,
+      "value": 3362
+    },
+    {
+      "year": 2018,
+      "value": 2237
+    },
+    {
+      "year": 2019,
+      "value": 3314
+    },
+    {
+      "year": 2020,
+      "value": 2443
+    },
+    {
+      "year": 2021,
+      "value": 2643
+    },
+    {
+      "year": 2022,
+      "value": 2500
+    },
+    {
+      "year": 2023,
+      "value": 3673
+    },
+    {
+      "year": 2024,
+      "value": 3133
+    },
+    {
+      "year": 2025,
+      "value": 1957
+    }
+  ]
+}

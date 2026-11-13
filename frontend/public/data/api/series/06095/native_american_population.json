@@ -1,0 +1,78 @@
+{
+  "geoid": "06095",
+  "metric": "native_american_population",
+  "points": [
+    {
+      "year": 2000,
+      "value": 3282
+    },
+    {
+      "year": 2009,
+      "value": 2852
+    },
+    {
+      "year": 2010,
+      "value": 2332
+    },
+    {
+      "year": 2011,
+      "value": 2751
+    },
+    {
+      "year": 2012,
+      "value": 2055
+    },
+    {
+      "year": 2013,
+      "value": 2426
+    },
+    {
+      "year": 2014,
+      "value": 2283
+    },
+    {
+      "year": 2015,
+      "value": 2367
+    },
+    {
+      "year": 2016,
+      "value": 1568
+    },
+    {
+      "year": 2017,
+      "value": 1951
+    },
+    {
+      "year": 2018,
+      "value": 2524
+    },
+    {
+      "year": 2019,
+      "value": 2450
+    },
+    {
+      "year": 2020,
+      "value": 5388
+    },
+    {
+      "year": 2021,
+      "value": 2554
+    },
+    {
+      "year": 2022,
+      "value": 3555
+    },
+    {
+      "year": 2023,
+      "value": 4653
+    },
+    {
+      "year": 2024,
+      "value": 4531
+    },
+    {
+      "year": 2025,
+      "value": 4740
+    }
+  ]
+}
