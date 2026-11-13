@@ -69,7 +69,7 @@ def export(output: Path) -> int:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--output', type=Path, default=BACKEND / 'exports' / 'api', help='snapshot directory (default: backend/exports/api)')
+    parser.add_argument('--output', type=Path, default=BACKEND.parent / 'frontend' / 'public' / 'data' / 'api', help='snapshot directory (default: frontend/public/data/api)')
     args = parser.parse_args()
     count = export(args.output)
     print(f'Exported {count} responses to {args.output}')

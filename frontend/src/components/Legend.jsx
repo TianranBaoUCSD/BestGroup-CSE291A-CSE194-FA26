@@ -4,10 +4,10 @@ import { dataYearNote, formatValue } from '../lib/format.js';
 
 export const STATUS_NOTES = {
   loading: 'Loading data…',
-  offline: 'Can’t reach the API. Retrying automatically; check that FastAPI is running on port 8000.',
-  'db-down': 'The API can’t reach the database. Retrying automatically; check that PostgreSQL is running and DATABASE_URL is set.',
-  empty: 'The database has no data yet. Retrying automatically; run backend/scripts/load_data.py to load it.',
-  error: 'The API returned an error.',
+  offline: 'Can’t load the exported data. Retrying automatically.',
+  'db-down': 'The exported data is unavailable. Retrying automatically.',
+  empty: 'The exported snapshot has no data for this selection.',
+  error: 'Could not load the exported data. Run the exporter and check that the files are published.',
 };
 
 export default function Legend({ dataset, metrics, metric, onMetricChange, domain, hasValues, year, dataYear, status }) {

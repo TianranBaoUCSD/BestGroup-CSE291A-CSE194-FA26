@@ -6,8 +6,6 @@ import { getMetrics, hasData } from './metricsCache.js';
 export function statusForError(err) {
   if (err.status === 0 || err.status === 502 || err.status === 504) return 'offline';
   if (err.status === 503) return 'db-down';
-  // Vite's dev proxy returns a bare 500 when nothing is listening on :8000.
-  if (err.status === 500 && /API responded 500/.test(err.message)) return 'offline';
   return 'error';
 }
 

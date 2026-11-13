@@ -10,7 +10,7 @@ export default function DetailsPanel({ dataset, metrics, year, dataYear, status,
     ? `${def.label} figures for ${countyName} County, ${year}.`
     : 'Click a county on the map to zoom in and see its figures.';
 
-  let note = 'Figures appear once the API has data.';
+  let note = 'Figures appear when the exported data is available.';
   if (status === 'ok' && dataYear != null) {
     note = dataYearNote(year, dataYear);
   }

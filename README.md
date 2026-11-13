@@ -22,7 +22,7 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements-dev.txt
 alembic upgrade head                 # create the tables
 python scripts/load_data.py          # load /data into them
-uvicorn app.main:app --reload --port 8000
+python scripts/export_api.py         # write the snapshot into frontend/public/data/api
 ```
 
 **2. Frontend** (Node 18+), in a second terminal
@@ -33,15 +33,14 @@ npm install
 npm run dev          # http://localhost:5173
 ```
 
-The frontend proxies `/api/*` to `localhost:8000`. If the API isn't up yet or the database
-is empty, the page keeps retrying (1s, 2s, 4s … up to every 30s) and fills in once it can.
+The frontend reads static JSON from `frontend/public/data/api/`; it does not require a running API or database. Run the exporter after loading data and commit the generated files before building and deploying the site. See `backend/EXPORT.md` for details.
 
 The map shows the nine counties, shaded by the metric picked in the legend
 (red for Housing, brown for Demographics). Click a county to zoom in and see its
 figures in the side panel.
 
 The year slider only offers years the database has for the metric coloring the map
-(worked out from `/api/metrics` at startup). Years with no data are skipped (a `//` mark
+(worked out from the exported metrics at startup). Years with no data are skipped (a `//` mark
 shows where), switching to a metric without the current year jumps to its earliest
 year, and metrics with no data at all are hidden.
 
